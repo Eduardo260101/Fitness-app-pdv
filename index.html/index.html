@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Fitness App</h1>
+    </header>
+    <main>
+        <form id="workout-form">
+            <label for="activity">Activity:</label>
+            <input type="text" id="activity" placeholder="e.g., Running" required>
+            <label for="duration">Duration (mins):</label>
+            <input type="number" id="duration" placeholder="e.g., 30" required>
+            <button type="submit">Add Workout</button>
+        </form>
+        <ul id="workout-list"></ul>
+    </main>
+</body>
+<script src="script.js"></script>
+</html>
