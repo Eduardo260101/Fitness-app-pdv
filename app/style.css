@@ -1,7 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 20px;
-    background-color: #f9f9f9;
+    background-color: #d441d4;
 }
 header {
     text-align: center;
@@ -23,8 +23,8 @@ ul {
     margin: 20px auto;
 }
 li {
-    background: #fff;
-    border: 1px solid #ccc;
+    background: #c53fc9;
+    border: 1px solid #c11ba0;
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 5px;
