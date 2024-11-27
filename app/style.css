@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', serif;
     margin: 20px;
     background-color: #d441d4;
 }
@@ -23,8 +23,8 @@ ul {
     margin: 20px auto;
 }
 li {
-    background: #c53fc9;
-    border: 1px solid #c11ba0;
+    background: #d85e5e;
+    border: 1px solid #000000;
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 5px;
