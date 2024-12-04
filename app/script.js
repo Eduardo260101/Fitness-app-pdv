@@ -17,5 +17,4 @@ form.addEventListener('submit', (e) => {
 
     // Clear the form
     form.reset();
-    console.log `${activity} - ${duration} minutes`;
 });
